@@ -1,0 +1,26 @@
+{
+"name": "4exus-trive",
+"version": "1.0.0",
+"description": "Seamlessly manage tasks, track progress, and collaborate with ease using our innovative platform",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/rdaleyi4hk23/NexusStrive.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "rdaleyi4hk23",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
